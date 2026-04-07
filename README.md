@@ -2,7 +2,7 @@
 
 Go’s simplicity, fast compilation, and mature ecosystem make it an appealing compilation target for new languages. This is a list of languages that, in one way or another, compile down to Go assembly.
 
-+ **Alg** [Website](https://alaingilbert.github.io/agl/) [Github](https://github.com/alaingilbert/agl) - Another GoLang
++ **Agl** [Website](https://alaingilbert.github.io/agl/) [Github](https://github.com/alaingilbert/agl) - Another GoLang
 + **Borgo** [Website](https://borgo-lang.github.io/) [GitHub](https://github.com/borgo-lang/borgo) - rust like language
 + **Braid** [Github](https://github.com/joshsharp/braid) - a functional language with Reason-like syntax. *Unmaintained*
 + **Gox** [Github](https://github.com/doors-dev/gox) - Go language extension that turns HTML templates into typed Go expressions
