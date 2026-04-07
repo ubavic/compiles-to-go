@@ -8,7 +8,7 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 + **Gox** [Github](https://github.com/doors-dev/gox) - Go language extension that turns HTML templates into typed Go expressions
 + **Gisp** [Github](https://github.com/jcla1/gisp) - simple (non standard) compiler of Lisp/Scheme to Go.
 + **Lisette** [Website](https://lisette.run/) [GitHub](https://github.com/ivov/lisette) - a little language inspired by Rust that compiles to Go
-+ **Oden** [Wensite](https://oden-lang.github.io/) [GitHub](https://github.com/oden-lang/oden) - experimental, statically typed, functional programming language, built for the Go ecosystem. *Unmaintained*
++ **Oden** [Website](https://oden-lang.github.io/) [GitHub](https://github.com/oden-lang/oden) - experimental, statically typed, functional programming language, built for the Go ecosystem. *Unmaintained*
 + **Sky** [GitHub](https://github.com/anzellai/sky) - an Elm-inspired language
 
 
