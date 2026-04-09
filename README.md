@@ -10,7 +10,7 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 + **Lisette** [Website](https://lisette.run/) [GitHub](https://github.com/ivov/lisette) - a little language inspired by Rust that compiles to Go
 + **Oden** [Website](https://oden-lang.github.io/) [GitHub](https://github.com/oden-lang/oden) - experimental, statically typed, functional programming language, built for the Go ecosystem. *Unmaintained*
 + **Sky** [GitHub](https://github.com/anzellai/sky) - an Elm-inspired language
-+ **Soppo** [Websiet](https://soppolang.dev/) [GitHub](https://github.com/halcyonnouveau/soppo) - Go, with the features it's missing
++ **Soppo** [Website](https://soppolang.dev/) [GitHub](https://github.com/halcyonnouveau/soppo) - Go, with the features it's missing
 + **Xgo** [Website](https://xgo.dev/) [Github](https://github.com/goplus/xgo) - a programming language that reads like plain English. It also lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem.
 
 
