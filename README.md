@@ -11,6 +11,7 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 + **Oden** [Website](https://oden-lang.github.io/) [GitHub](https://github.com/oden-lang/oden) - experimental, statically typed, functional programming language, built for the Go ecosystem. *Unmaintained*
 + **Sky** [GitHub](https://github.com/anzellai/sky) - an Elm-inspired language
 + **Soppo** [Website](https://soppolang.dev/) [GitHub](https://github.com/halcyonnouveau/soppo) - Go, with the features it's missing
++ **Wasm2go** [GitHub](https://github.com/ncruces/wasm2go) - a Wasm to Go translator
 + **Xgo** [Website](https://xgo.dev/) [Github](https://github.com/goplus/xgo) - a programming language that reads like plain English. It also lets you leverage assets from C/C++, Go, Python, and JavaScript/TypeScript, creating a unified software engineering ecosystem.
 
 
