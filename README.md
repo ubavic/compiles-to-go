@@ -15,8 +15,9 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 
 ## Existing languages
 
-+ **Cgo** [GitLab](https://gitlab.com/cznic/ccgo) - translate cc ASTs to Go source code.
-+ **Gisp** [Github](https://github.com/jcla1/gisp) - simple (non standard) compiler of Lisp/Scheme to Go.
-+ **Wasm2go** [GitHub](https://github.com/ncruces/wasm2go) - a Wasm to Go translator
++ **Cgo** [GitLab](https://gitlab.com/cznic/ccgo) - Translate cc ASTs to Go source code.
++ **Gisp** [GitHub](https://github.com/jcla1/gisp) - Simple (non standard) compiler of Lisp/Scheme to Go.
++ **Thanos** [GitHub](https://github.com/redneckbeard/thanos) - A source-to-source compiler that translates Ruby into human-readable Go. 
++ **Wasm2go** [GitHub](https://github.com/ncruces/wasm2go) - A Wasm to Go translator
 
 Feel free to contribute!
