@@ -17,6 +17,7 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 ## Existing languages
 
 + **Cgo** [GitLab](https://gitlab.com/cznic/ccgo) - Translate cc ASTs to Go source code.
++ **Go Fortran** [GitHub](https://github.com/soypat/go-fortran) - Fortran AST parsing and tokenization support in Go. FOTRAN77 through Fortran 90 supported. 
 + **Gisp** [GitHub](https://github.com/jcla1/gisp) - Simple (non standard) compiler of Lisp/Scheme to Go.
 + **Thanos** [GitHub](https://github.com/redneckbeard/thanos) - A source-to-source compiler that translates Ruby into human-readable Go. 
 + **Wasm2go** [GitHub](https://github.com/ncruces/wasm2go) - A Wasm to Go translator
