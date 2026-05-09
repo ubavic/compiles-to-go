@@ -7,6 +7,7 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 + **Braid** [GitHub](https://github.com/joshsharp/braid) - A functional language with Reason-like syntax. *Unmaintained*
 + **Dingo** [Website](https://dingolang.com/) [GitHub](https://github.com/MadAppGang/dingo) - A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility
 + **Gox** [Github](https://github.com/doors-dev/gox) - Go language extension that turns HTML templates into typed Go expressions
++ **Lingo** [Github](https://github.com/MistyPigeon/lingo) - Lingo is a meta-language compiler that brings TypeScript-like static typing and null-safety features to Go, while maintaining Go's familiar syntax and idioms.
 + **Lisette** [Website](https://lisette.run/) [GitHub](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 + **Oden** [Website](https://oden-lang.github.io/) [GitHub](https://github.com/oden-lang/oden) - Experimental, statically typed, functional programming language, built for the Go ecosystem. *Unmaintained*
 + **Sky** [Website](https://sky-lang.org/) [GitHub](https://github.com/anzellai/sky) - An Elm-inspired language
