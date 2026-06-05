@@ -10,6 +10,7 @@ Go’s simplicity, fast compilation, and mature ecosystem make it an appealing c
 + **Lingo** [Github](https://github.com/MistyPigeon/lingo) - Lingo is a meta-language compiler that brings TypeScript-like static typing and null-safety features to Go, while maintaining Go's familiar syntax and idioms.
 + **Lisette** [Website](https://lisette.run/) [GitHub](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go
 + **Oden** [Website](https://oden-lang.github.io/) [GitHub](https://github.com/oden-lang/oden) - Experimental, statically typed, functional programming language, built for the Go ecosystem. *Unmaintained*
++ **Neva** [Website](https://nevalang.org/) [GitHub](https://github.com/nevalang/neva) - Hybrid visual/textual, parallelism by default, strict static typing, compiles to machine code and integrates with Go. 
 + **Sky** [Website](https://sky-lang.org/) [GitHub](https://github.com/anzellai/sky) - An Elm-inspired language
 + **Soppo** [Website](https://soppolang.dev/) [GitHub](https://github.com/halcyonnouveau/soppo) - Go, with the features it's missing
 + **Stew** [Website](https://stew.baptiste.zip/) [Github](https://github.com/ZiplEix/stew) - The Isomorphic Go Framework
